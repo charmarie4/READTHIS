@@ -1,0 +1,11 @@
+> [TIP!]
+> Read this first.
+
+
+# Charisse's Break into SQL
+
+## Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and let me know if you have any questions.
+
+*This is an example portfolio for students of the Break Into Tech Data Analytics Certificate Course* :)
+
+To join the program and create your own portfolio, [go here!](https://www.howtobreakintotech.com/data-analytics-certificate-program/)
